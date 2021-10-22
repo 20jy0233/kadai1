@@ -42,6 +42,6 @@ public class DrawFigure {
 		EZ.addCircle(200, 200, 200, 200, Color.RED,  false);
 		
 		//背景色を設定
-		EZ.setBackgroundColor(Color.PINK);
+		EZ.setBackgroundColor(Color.YELLOW);
 	}
 }
